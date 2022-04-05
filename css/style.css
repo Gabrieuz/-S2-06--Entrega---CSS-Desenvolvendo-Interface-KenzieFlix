@@ -112,3 +112,8 @@ container {
 	line-height: 50px;
 	color: #9c9c9c;
 }
+
+footer {
+	margin-top: 100px;
+	text-align: center;
+}
