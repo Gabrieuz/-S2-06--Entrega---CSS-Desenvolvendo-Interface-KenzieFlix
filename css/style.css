@@ -75,7 +75,7 @@ header {
 	cursor: pointer;
 }
 
-container {
+main {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
