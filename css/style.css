@@ -20,6 +20,7 @@ main {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	gap: 80px;
 }
 
 .primary-text {
@@ -35,7 +36,6 @@ main {
 	margin-top: 40px;
 	box-sizing: border-box;
 	width: 700px;
-	height: 300px;
 }
 
 .profile {
