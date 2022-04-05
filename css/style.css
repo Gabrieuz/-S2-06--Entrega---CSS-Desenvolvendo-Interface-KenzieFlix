@@ -15,6 +15,13 @@ header {
 	gap: 50px;
 }
 
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
 .primary-text {
 	font-size: 32px;
 	line-height: 42px;
@@ -23,10 +30,12 @@ header {
 .profiles-box {
 	display: flex;
 	flex-direction: row;
-	gap: 25px;
+	gap: 20px;
 	justify-content: center;
 	margin-top: 40px;
 	box-sizing: border-box;
+	width: 700px;
+	height: 300px;
 }
 
 .profile {
@@ -78,16 +87,8 @@ header {
 	cursor: pointer;
 }
 
-main {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	gap: 95px;
-}
-
 .circle {
-	font-family: 'Varela Round', sans-serif;
+	font-family: "Varela Round", sans-serif;
 	display: flex;
 	align-items: center;
 	justify-content: center;
